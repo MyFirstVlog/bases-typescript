@@ -9,7 +9,7 @@
     else {
         console.log('nos salvamos');
     }
-    //Los NaN son considerados un tipo de numeros, tener cuidado con eso
     avengers = Number('123A');
     console.log({ avengers });
 })();
+//# sourceMappingURL=numbers.js.map
